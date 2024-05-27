@@ -14,7 +14,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CraftJarvis Copilot # the main title
+title: Zihao's Blog # the main title
 
 tagline: # A text-focused Jekyll theme # it will display as the sub-title
 
@@ -23,23 +23,24 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "craftjarvis.org"
+url: "https://mc-copilot.github.io"
 
 github:
-  username: craftjarvis # change to your github username
+  username: zhwang4ai # change to your github username
 
 twitter:
-  username: CraftJarvis22 # change to your twitter username TODO: twitter user name
+  username: RealZihaoWang # change to your twitter username TODO: twitter user name
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: CraftJarvis Group # change to your full name TODO: change to your full name
-  email: craftjarvis.org@gmail.com # change to your email address TODO: change to your email address
+  name: Zihao Wang # change to your full name TODO: change to your full name
+  email: zhwang1694@gmail.com # change to your email address TODO: change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/CraftJarvis22 # change to your twitter homepage TODO: twitter user name
-    - https://github.com/craftjarvis # change to your github homepage
+    - https://twitter.com/RealZihaoWang # change to your twitter homepage TODO: twitter user name
+    - https://github.com/zhwang4ai # change to your github homepage
+    - https://scholar.google.com/citations?user=I0D-EgQAAAAJ&hl # change to your scholar
     # Uncomment below to add more social links
 #    - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -66,7 +67,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -76,7 +77,7 @@ theme_mode: light # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/CraftJarvis-Logo.png
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

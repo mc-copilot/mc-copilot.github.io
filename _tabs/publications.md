@@ -7,46 +7,28 @@ panel_includes:
   - toc
 ---
 
-### Agents
-
 #### JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models
-Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang\
-arXiv
+[Zihao Wang](https://zhwang4ai.github.io/), [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)\
+**arXiv** [[Project]](https://craftjarvis.github.io/JARVIS-1/) [[Paper]](https://arxiv.org/pdf/2311.05997.pdf) [[Code]](https://github.com/CraftJarvis/JARVIS1)  [[Twitter]](https://twitter.com/jeasinema/status/1723900032653643796) [[Media]](https://mp.weixin.qq.com/s/4SyX4QCdu9rBptRvOQIwXg)
 
 #### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
-Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang\
-NeurIPS 2023
-
-### Policy
+[Zihao Wang](https://zhwang4ai.github.io/), [Shaofei Cai](https://phython96.github.io/), [Anji Liu](https://liuanji.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)\
+**NeurIPS 2023** [[Paper]](https://arxiv.org/pdf/2302.01560.pdf) [[Code]](https://github.com/CraftJarvis/MC-Planner) [[Twitter]](https://twitter.com/jeasinema/status/1622428535897067521)
 
 #### GROOT: Learning to Follow Instructions by Watching Gameplay Videos
-Shaofei Cai, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
-ICLR 2024 (Spotlight)
+[Shaofei Cai](https://phython96.github.io/), Bowei Zhang, [Zihao Wang](https://zhwang4ai.github.io/), [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Anji Liu](https://web.cs.ucla.edu/~yliang/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)\
+**ICLR 2024 (Spotlight)** [[Project]](https://craftjarvis.github.io/GROOT/) [[Paper]](https://arxiv.org/pdf/2310.08235.pdf) [[Code]](https://github.com/CraftJarvis/GROOT) [[Twitter]](https://twitter.com/jeasinema/status/1712526192665047493) [[Media]](https://mp.weixin.qq.com/s/IqIRxFYDpCi3_Iy1FUg9DQ)
+
+#### RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation
+[Zihao Wang](https://zhwang4ai.github.io/), [Anji Liu](https://liuanji.github.io/), [Haowei Lin](https://linhaowei1.github.io/), Jiaqi Li, [Xiaojian Ma](https://web.cs.ucla.edu/~xm/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)\
+**arXiv** [[Project]](https://craftjarvis.github.io/RAT) [[Demo]](https://huggingface.co/spaces/jeasinema/RAT) [[Paper]](https://arxiv.org/pdf/2403.05313.pdf) [[Code]](https://github.com/CraftJarvis/RAT) [[Twitter]](https://x.com/AndyLin2001/status/1767075865127719101?s=20) 
+
+#### MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft
+[Haowei Lin](https://linhaowei1.github.io/), [Zihao Wang](https://zhwang4ai.github.io/), [Jianzhu Ma](https://majianzhu.com/), [Yitao Liang](https://web.cs.ucla.edu/~yliang/)\
+**arXiv** [[Paper]](https://arxiv.org/pdf/2310.08367.pdf) [[Code]](https://github.com/CraftJarvis/MCU) [[Benchmark]](https://github.com/CraftJarvis/MC-TextWorld)
 
 #### Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction
 Shaofei Cai, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
-CVPR 2023
+**CVPR 2023** [[Paper]](https://arxiv.org/pdf/2301.10034.pdf) [[Code]](https://github.com/CraftJarvis/MC-Controller)
 
-<!-- #### Pandora: Towards General World Model with Natural Language Actions and Video States
-Jiannan Xiang\*, Guangyi Liu\*, Yi Gu\*, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
-[[Website]](https://world-model.ai/) [[Github]](https://github.com/maitrix-org/Pandora) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf) [[Model]](https://huggingface.co/maitrix-org/Pandora)
-
-
-
-#### LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models
-Shibo Hao\*, Yi Gu\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
-[[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/Ber666/llm-reasoners) [[Paper]](https://arxiv.org/abs/2404.05221)
-
-
-
-#### Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning
-Zhiting Hu\*, Tianmin Shu\*\
-[[Paper]](https://arxiv.org/abs/2312.05230) [[NeurIPS2023 Tutorial]](https://sites.google.com/view/neurips2023law/home) [[AAAI2024 Tutorial]](https://sites.google.com/view/aaai2024worldmodel/home) -->
-
-
-<!--
-#### Mmtom-qa: Multimodal theory of mind question answering
-Chuanyang Jin, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua B Tenenbaum, Tianmin Shu\
-***Preprint*** [[Website]](https://chuanyangjin.com/mmtom-qa) [[Paper]](https://arxiv.org/abs/2401.08743)
--->
 
