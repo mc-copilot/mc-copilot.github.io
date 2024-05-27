@@ -2,7 +2,7 @@
 # the default layout is 'page'
 layout: projects
 icon: fas fa-table-list
-order: 2
+order: 4
 toc: true
 ---
 
