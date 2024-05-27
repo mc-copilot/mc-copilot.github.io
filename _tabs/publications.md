@@ -13,7 +13,7 @@ panel_includes:
 Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang\
 arXiv
 
-#### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\
+#### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
 Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang\
 NeurIPS 2023
 
@@ -23,7 +23,7 @@ NeurIPS 2023
 Shaofei Cai, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
 ICLR 2024 (Spotlight)
 
-Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction
+#### Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction
 Shaofei Cai, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
 CVPR 2023
 
