@@ -54,18 +54,18 @@ _BIGAI_
 <div class="fit-content grid grid-cols-5 m-auto gap-4" markdown="1">
 
 ![Zihao Wang](/assets/img/contributors/WangZihao.png){: .no-popup .logo width="75" }
-_ZihaoWang_
+_Zihao Wang_
 
 ![Shaofei Cai](/assets/img/contributors/CaiShaofei.png){: .no-popup .logo width="75" }
-_UCSD_
+_Shaofei Cai_
 
 ![Anji Liu](/assets/img/contributors/LiuAnji.png){: .no-popup .logo width="75" }
-_MBZUAI_
+_Anji Liu_
 
 ![Xiaojian Ma](/assets/img/contributors/MaXiaojian.png){: .no-popup .logo width="75" }
-_JHU_
+_Xiaojian Ma_
 
 ![Yitao Liang](/assets/img/contributors/LiangYitao.png){: .no-popup .logo width="75" }
-_CMU_
+_Yitao Liang_
 
 </div>
