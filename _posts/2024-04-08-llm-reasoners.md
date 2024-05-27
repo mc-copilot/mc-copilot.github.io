@@ -16,6 +16,6 @@ image:
 ---
 
 ## h2
-![LLM Reasoners](/assets/img/llm-reasoners-banner.png){: lqip="data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABQAQCdASoQAAYABUB8JQBdgCgAAP7wT36/6Ws+dmZR/SzgaPGJ0OcUFpU1l6AA}
+<!-- ![LLM Reasoners](/assets/img/llm-reasoners-banner.png){: lqip="data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABQAQCdASoQAAYABUB8JQBdgCgAAP7wT36/6Ws+dmZR/SzgaPGJ0OcUFpU1l6AA} -->
 
 ### h3
