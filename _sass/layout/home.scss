@@ -215,8 +215,8 @@
 }
 
 .project-main {
-  width: calc(40% - 36px);
-  padding: 0;
+  width: calc(25% - 36px);
+  padding: 10px;
   height: fit-content;
   max-height: 72px;
   margin: auto;
@@ -229,7 +229,7 @@
 }
 
 .project-content {
-  width: calc(60% - 36px);
+  width: calc(75% - 36px);
   height: fit-content;
   max-height: 72px;
   margin: auto;
