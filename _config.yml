@@ -40,9 +40,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/RealZihaoWang # change to your twitter homepage TODO: twitter user name
     - https://github.com/zhwang4ai # change to your github homepage
-    - https://scholar.google.com/citations?user=I0D-EgQAAAAJ&hl # change to your scholar
+    # - https://scholar.google.com/citations?user=I0D-EgQAAAAJ&hl # change to your scholar
     # Uncomment below to add more social links
-#    - https://www.facebook.com/username
+    # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
