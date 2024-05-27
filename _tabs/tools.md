@@ -7,12 +7,12 @@ toc: true
 ---
 
 
-{% include embed/project.html title='MC-Vicuna'
+{% include embed/project.html title='Minecraft Vicuna'
                                image='/assets/img/projects/icons/mc-vicuna-v1-7b-icon.png'
                                lqip=''
                                content='Developing Open and Efficient Foundation Language Models in Open-World Minecraft.'
                                url='https://mc-copilot.github.io/mc-vicuna-v1-7b/' %}
-{% include embed/project.html title='MC Vicuna V2'
+{% include embed/project.html title='Minecraft Vicuna V2'
                               image='/assets/img/projects/icons/mc-vicuna-v2-7b-icon.png'
                               lqip=''
                               content='Scaling Up Foundation Language Models in Open-world Minecraft.'
