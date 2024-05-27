@@ -7,17 +7,25 @@ panel_includes:
   - toc
 ---
 
+### Agents
+
 #### JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models
 Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang\
 arXiv
+
+#### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\
+Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang\
+NeurIPS 2023
+
+### Policy
 
 #### GROOT: Learning to Follow Instructions by Watching Gameplay Videos
 Shaofei Cai, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
 ICLR 2024 (Spotlight)
 
-#### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\
-Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang
-NeurIPS 2023
+Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction
+Shaofei Cai, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
+CVPR 2023
 
 <!-- #### Pandora: Towards General World Model with Natural Language Actions and Video States
 Jiannan Xiang\*, Guangyi Liu\*, Yi Gu\*, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
