@@ -6,7 +6,6 @@ order: 2
 toc: true
 ---
 
-## Minecraft Tools
 
 {% include embed/project.html title='MC-Vicuna'
                                image='/assets/img/projects/icons/mc-vicuna-v1-7b-icon.png'
@@ -20,8 +19,6 @@ toc: true
                               url='https://mc-copilot.github.io/mc-vicuna-v2-7b/' %}
 
 
-## Open Models
-
 {% include embed/project.html title='Captioner'
                               image='/assets/img/projects/icons/captioner-icon.png'
                               lqip=''
@@ -33,8 +30,6 @@ toc: true
                               lqip=''
                               content='Open Llama-3-8B Language Models'
                               url='https://mc-copilot.github.io/llama-3/' %}
-
-## Others
 
 {% include embed/project.html title='Arena'
                               image='/assets/img/projects/icons/arena-icon.png'
