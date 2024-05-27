@@ -33,9 +33,9 @@ _LLM360_
 
 ## Organizations
 
-<div class="fit-content grid grid-cols-5 m-auto gap-4" markdown="1">
+<div class="fit-content grid grid-cols-7 m-auto gap-4" markdown="1">
 
-![CraftJarvis](/assets/img/CraftJarvis-Logo.png){: .no-popup .logo width="75" }
+![CraftJarvis](/assets/img/CraftJarvis-icon.png){: .no-popup .logo width="75" }
 _CraftJarvis_
 
 ![PKU](/assets/img/PKU-logo.png){: .no-popup .logo width="75" }
@@ -51,7 +51,7 @@ _BIGAI_
 
 ## Contributions
 
-<div class="fit-content grid grid-cols-5 m-auto gap-4" markdown="1">
+<div class="fit-content grid grid-cols-7 m-auto gap-4" markdown="1">
 
 ![Zihao Wang](/assets/img/contributors/WangZihao.png){: .no-popup .logo width="75" }
 _Zihao Wang_
