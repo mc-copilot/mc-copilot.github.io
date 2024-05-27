@@ -7,7 +7,19 @@ panel_includes:
   - toc
 ---
 
-#### Pandora: Towards General World Model with Natural Language Actions and Video States
+#### JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models
+Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang\
+arXiv
+
+#### GROOT: Learning to Follow Instructions by Watching Gameplay Videos
+Shaofei Cai, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang\
+ICLR 2024 (Spotlight)
+
+#### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\
+Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang
+NeurIPS 2023
+
+<!-- #### Pandora: Towards General World Model with Natural Language Actions and Video States
 Jiannan Xiang\*, Guangyi Liu\*, Yi Gu\*, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
 [[Website]](https://world-model.ai/) [[Github]](https://github.com/maitrix-org/Pandora) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf) [[Model]](https://huggingface.co/maitrix-org/Pandora)
 
@@ -21,7 +33,7 @@ Shibo Hao\*, Yi Gu\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shu
 
 #### Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning
 Zhiting Hu\*, Tianmin Shu\*\
-[[Paper]](https://arxiv.org/abs/2312.05230) [[NeurIPS2023 Tutorial]](https://sites.google.com/view/neurips2023law/home) [[AAAI2024 Tutorial]](https://sites.google.com/view/aaai2024worldmodel/home)
+[[Paper]](https://arxiv.org/abs/2312.05230) [[NeurIPS2023 Tutorial]](https://sites.google.com/view/neurips2023law/home) [[AAAI2024 Tutorial]](https://sites.google.com/view/aaai2024worldmodel/home) -->
 
 
 <!--
