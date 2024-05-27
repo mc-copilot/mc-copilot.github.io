@@ -1,0 +1,30 @@
+---
+layout: default
+refactor: true
+---
+<div
+  class="pt-20 md:pt-0 full-container h-fit-content w-100 md:flex flex-col items-center justify-center text-center relative">
+  <div class="flex items-center justify-center w-100 flex-col">
+    <article class="w-auto md:pb-0 flex flex-col items-center gap-4 py-4">
+      <div class="card card-wrapper fit-content" id="home-title">
+        <div class="overview-title-body card-body">
+          <div class="flex justify-center">
+            <div class="w-md-100 w-300px h-100px">
+              <img src="assets/img/logo-title.png" alt="Maitrix.org"/>
+            </div>
+          </div>
+          <p/>
+          <p class="max-32-rem flex m-auto">
+            Open Organization to Build AI-powered Realities with Techniques of Large Language/Multi-Modal Models, Agent Models, World Models.
+          </p>
+        </div>
+      </div>
+      <div
+        class="fit-content h-fit-content items-center grid grid-cols-1-w grid-cols-2-w grid-cols-2 grid-auto-rows gap-4"
+        id="post-list">
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</div>
+

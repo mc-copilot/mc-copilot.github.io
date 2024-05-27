@@ -1,0 +1,26 @@
+{% assign url = include.url %}
+{% assign title = include.title %}
+{% assign caption = include.caption %}
+{% assign image = include.image %}
+{% if include.lqip %}
+  {%- capture lqip -%}lqip="{{ include.lqip }}"{%- endcapture -%}
+{% else %}
+  {%- assign lqip = null -%}
+{% endif %}
+{% assign alt = include.alt %}
+{% assign lang = include.lang %}
+<div class="overview-card card-wrapper card max-24-rem h-100">
+  <a href="{{ url }}" class="post-preview row g-0 h-100">
+    <div class="overview-body card-body d-flex">
+      <div class="justify-center flex flex-col w-100">
+        <div class="flex justify-center text-center items-center mb-2">
+          {% if image %}
+            <img class="overview-icon" src="{{ image }}" alt="{{ alt }}" {{ lqip }}>
+          {% endif %}
+          <h2 class="overview-title mt-0 mb-0">{{ title }}</h2>
+        </div>
+        <p class="overview-text card-text content mt-0">{{ caption }}</p>
+      </div>
+    </div>
+  </a>
+</div>
