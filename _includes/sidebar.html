@@ -27,6 +27,13 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
+      <!-- blogs -->
+      <li class="nav-item{% if page.layout == 'blogs' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/blogs' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-pen"></i>
+          <span>{{ 'blogs' | upcase }}</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
@@ -44,7 +51,7 @@
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
-      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
+      <button type="button" class="mode-toggle btn" aria-label="Switch Mode">
         <i class="fas fa-adjust"></i>
       </button>
 
