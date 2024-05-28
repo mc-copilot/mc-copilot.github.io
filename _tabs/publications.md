@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-newspaper
-order: 3
+order: 2
 toc: true
 panel_includes:
   - toc
