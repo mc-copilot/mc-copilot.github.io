@@ -14,9 +14,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zihao's Blog # the main title
+title: Zihao # the main title
 
-tagline: 'Personal Learning Notes' # A text-focused Jekyll theme # it will display as the sub-title
+tagline: Personal Blogs # A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
